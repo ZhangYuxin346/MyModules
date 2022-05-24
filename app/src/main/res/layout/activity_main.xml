@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/mobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C346 Mobile App Development" />
+
+    <TextView
+        android:id="@+id/web"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C203 Web Development" />
+
+    <TextView
+        android:id="@+id/IT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C235 IT Security" />
+
+    <TextView
+        android:id="@+id/UiUx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C218 UI/UX Design" />
+
+    <TextView
+        android:id="@+id/software"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C206 Software Development" />
+
+    <TextView
+        android:id="@+id/lifeSkills"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="G953 Life Skills" />
+</LinearLayout>
